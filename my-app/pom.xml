@@ -16,6 +16,8 @@
 
   <url>http://maven.apache.org</url>
 
+  <description>A project to learn Maven by Dio Xie</description>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
